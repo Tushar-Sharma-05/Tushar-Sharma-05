@@ -11,7 +11,7 @@
 
 - 📫 How to reach me : **[Twitter-](https://twTwitter.com/tushar_0504)@tushar_0504**
 
-- ⚡ Fun fact : **I always fancied to be an architect but i'm here designing websites.**
+- ⚡ Fun fact : **I always fancied to be an architect but i'm here designing websites,kinda similar.**
 
 
 
