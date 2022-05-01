@@ -25,7 +25,9 @@
 </br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar-sharma-05&show_icons=true&locale=en&layout=compact" alt="tushar-sharma-05" /></p>
+</br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar-sharma-05&show_icons=true&locale=en" alt="tushar-sharma-05" /></p>
+</br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-sharma-05&" alt="tushar-sharma-05" /></p>
