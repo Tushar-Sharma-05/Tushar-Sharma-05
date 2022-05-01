@@ -1,3 +1,5 @@
+<p><img align="right" width="100%" height="300" src="<!-- <p><img align="right" width="400" src="https://cdn.dribbble.com/users/325109/screenshots/16446956/media/f483a36f427c82b567c043f4482989a8.gif" alt="tushar-sharma-05" /></p> -->" alt="tushar-sharma-05" /></p> 
+
 <h1 align="center">Hi 👋, I'm Tushar Sharma!!</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
