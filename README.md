@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact : **I always fancied to be an architect but i'm here designing websites.**
 
-<p><img align="right" width="400" src="https://cdn.dribbble.com/users/325109/screenshots/16446956/media/f483a36f427c82b567c043f4482989a8.gif" alt="tushar-sharma-05" /></p>
+<!-- <p><img align="right" width="400" src="https://cdn.dribbble.com/users/325109/screenshots/16446956/media/f483a36f427c82b567c043f4482989a8.gif" alt="tushar-sharma-05" /></p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
