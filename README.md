@@ -7,9 +7,11 @@
 
 - 🔭 I’m currently working on **an e-commerce website and apparently hustling with reactjs.**
 
-- 📫 How to reach me **[Twitter-](https://twTwitter.com/tushar_0504)@tushar_0504**
+- 📫 How to reach me : **[Twitter-](https://twTwitter.com/tushar_0504)@tushar_0504**
 
-- ⚡ Fun fact **I always fancied to be an architect but i'm here designing websites.**
+- ⚡ Fun fact : **I always fancied to be an architect but i'm here designing websites.**
+
+<p><img align="right" width="400" src="https://cdn.dribbble.com/users/325109/screenshots/16446956/media/f483a36f427c82b567c043f4482989a8.gif" alt="tushar-sharma-05" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,6 +20,10 @@
 <a href="https://fb.com/tusharbhradwaj.sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tusharbhradwaj.sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/tushar__bhardwaj__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushar__bhardwaj__" height="30" width="40" /></a>
 </p>
+
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
