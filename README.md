@@ -1,4 +1,4 @@
-<p><img align="right" width="100%" height="300" src="<!-- <p><img align="right" width="400" src="https://cdn.dribbble.com/users/325109/screenshots/16446956/media/f483a36f427c82b567c043f4482989a8.gif" alt="tushar-sharma-05" /></p> -->" alt="tushar-sharma-05" /></p> 
+<!-- <img align="right" width="100%" height="400" src="https://images.unsplash.com/photo-1587614382346-4ec70e388b28?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" alt="tushar-sharma-05" /> -->
 
 <h1 align="center">Hi 👋, I'm Tushar Sharma!!</h1>
 <h3 align="center">A passionate frontend developer</h3>
@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact : **I always fancied to be an architect but i'm here designing websites.**
 
-<!-- <p><img align="right" width="400" src="https://cdn.dribbble.com/users/325109/screenshots/16446956/media/f483a36f427c82b567c043f4482989a8.gif" alt="tushar-sharma-05" /></p> -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
