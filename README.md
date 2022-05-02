@@ -1,6 +1,6 @@
 <!-- <img align="right" width="100%" height="400" src="https://images.unsplash.com/photo-1587614382346-4ec70e388b28?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" alt="tushar-sharma-05" /> -->
 
-![02](https://user-images.githubusercontent.com/98648970/166180404-66f8aa20-eb8d-4234-872f-5cca67b0ccf7.jpg)
+![02](https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
 <h1 align="center">Hi 👋, I'm Tushar Sharma!!</h1>
 <h3 align="center">A passionate frontend developer</h3>
