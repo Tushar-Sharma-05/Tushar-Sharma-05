@@ -1,9 +1,11 @@
-<img align="right" width="100%" height="450" src="https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" alt="tushar-sharma-05" />
+<img align="right" width="100%" height="300" src="https://nagarikdiary.com/wp-content/uploads/2019/01/best-twitter-banners-70-cool-twitter-headers-random-styles-from-nature-to-business.jpg" alt="tushar-sharma-05" />
 
 <!-- ![02](https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80) -->
 
 <h1 align="center">Hi 👋, I'm Tushar Sharma!!</h1>
 <h3 align="center">A passionate frontend developer</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-sharma-05&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-sharma-05" /> </p>
 
@@ -14,6 +16,10 @@
 - 📫 How to reach me : **[Twitter-](https://twTwitter.com/tushar_0504)@tushar_0504**
 
 - ⚡ Fun fact : **I always fancied to be an architect but i'm here designing websites,kinda similar.**
+
+<div id="header" >
+  <img align="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</div>
 
 
 
