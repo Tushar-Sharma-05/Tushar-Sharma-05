@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/tushar_0504" target="blank"><img src="https://img.shields.io/twitter/follow/tushar_0504?logo=twitter&style=for-the-badge" alt="tushar_0504" /></a> </p>
 
-- 🔭 I’m currently working on **an e-commerce website and apparently hustling with reactjs.**
+- 🔭 I’m currently working on **an react based project and apparently hustling with python.**
 
 - 📫 How to reach me : **[Twitter-](https://twTwitter.com/tushar_0504)@tushar_0504**
 
