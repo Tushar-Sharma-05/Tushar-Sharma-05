@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **an react based project and apparently hustling with python.**
 
-- 📫 How to reach me : **[gmail-](https://gmail.com/tusharsh1803@gmail.com)**tusharsh1803@gmail.com
+- 📫 How to reach me : [Twitter-](https://gmail.com/tushar_0504)
 
 - ⚡ Fun fact : **I always fancied to be an architect but i'm here designing websites,kinda similar.**
 
