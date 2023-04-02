@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **a react based project and apparently hustling with java.**
 
-- 📫 How to reach me : [Twitter-](https://twitter.com/tushar_0504)
+- 📫 How to reach me : [LinkedIn-](https://www.linkedin.com/in/tusharsh1803/)
 
 - ⚡ Fun fact : **I always fancied to be an architect but i'm here designing websites,kinda similar.**
 
